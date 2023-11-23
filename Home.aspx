@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <asp:HiddenField ID="hdCartAmount" runat="server" />
-    <asp:HiddenField ID="hdCartDiscount" runat="server" />
+    <asp:HiddenField ID="hdCartDiscount" runat="server" /> 
     <asp:HiddenField ID="hdTotalPayed" runat="server" />
     <asp:HiddenField ID="hdPidSizeID" runat="server" />
   
